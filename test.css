@@ -1,0 +1,39 @@
+#first{
+    
+    display: flex;
+    justify-content: flex-end;
+    
+}
+#second{
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 200px;
+}
+#button{
+    
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+    
+}
+#third{
+    
+    display: flex;
+    justify-content: space-between;
+    padding-top: 10cm;
+    
+
+}
+#img{
+    width: 300px;
+}
+#input{
+    width: 500px;
+}
+#containerinput{
+    width: 400px;
+    display: flex;
+    justify-content: center;
+}
